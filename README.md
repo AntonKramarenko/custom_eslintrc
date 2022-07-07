@@ -23,8 +23,8 @@
 
 4. # Run lint:
 
-    # npm run lint
+     npm run lint
 
 5. # Auto-fix lint warning:
 
-    # npm run lint:fix
+     npm run lint:fix
