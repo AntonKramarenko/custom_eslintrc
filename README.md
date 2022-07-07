@@ -6,7 +6,7 @@
 
     # yarn add eslint --dev
 
-2.  Add in project file with name:
+2.  Add in project file with name and copy rules from .eslintrc :
 
     # .eslintrc
 
